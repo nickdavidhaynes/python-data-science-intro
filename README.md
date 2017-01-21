@@ -23,6 +23,9 @@ When using git, it's often the case that you'll want to grab a version of some c
 #### Command line
 If you're on Mac or Linux (or using the Windows command line interface), navigate to the local directory that you want the materials to live in. Then, type `git clone https://github.com/nickdavidhaynes/python-data-science-intro.git`. If you now type `ls` (or `dir` in Windows), you should see a directory called `python-data-science-intro`. This directory contains all of the course materials - congrats!
 
+#### GUI
+TODO
+
 ### Step 3: Get Python 3
 This course will use Python 3. We'll touch on the differences between Python 2 and 3, but suffice to say for now that Python 2 should only be used for legacy reasons.
 
@@ -46,4 +49,4 @@ All of the notes and exercises for this class will be hosted in [Jupyter](http:/
 
 I strongly encourage you to take a look at the pre-work notebook before coming to the first class. This notebook will give you an interactive environment to familiarize yourself with the basics of Python and should make the first day go a bit more smoothly.
 
-To run the notebook.............................
+To run the notebook TODO
