@@ -1,0 +1,4 @@
+_Store
+*.pyc
+*~
+**/.ipynb_checkpoints
