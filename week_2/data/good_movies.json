@@ -1,0 +1,46 @@
+[
+  {
+    "year": 2016,
+    "short_summary": "A jazz pianist falls for an apsiring actres in Los Angeles.",
+    "stars": [
+      "Ryan Gosling",
+      "Emma Stone",
+      "Rosemarie DeWitt"
+    ],
+    "oscar_nominations": 14,
+    "title": "La La Land"
+  },
+  {
+    "year": 2016,
+    "short_summary": "A timeless story of human self-discovery and connection, Moonlight chronicles the life of a young black man from childhood to adulthood as he struggles to find his place in the world while growing up in a rough neighborhood of Miami.",
+    "stars": [
+      "Mahershala Ali",
+      "Shariff Earp",
+      "Duan Sanderson"
+    ],
+    "oscar_nominations": 8,
+    "title": "Moonlight"
+  },
+  {
+    "year": 2012,
+    "short_summary": "Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1980.",
+    "stars": [
+      "Ben Affleck",
+      "Bryan Cranston",
+      "John Goodman"
+    ],
+    "oscar_nominations": 3,
+    "title": "Argo"
+  },
+  {
+    "year": 2014,
+    "short_summary": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+    "stars": [
+      "Ben Affleck", 
+      "Rosamund Pike", 
+      "Neil Patrick Harris"
+    ],
+    "oscar_nominations": 1,
+    "title": "Gone Girl"
+  }
+]
