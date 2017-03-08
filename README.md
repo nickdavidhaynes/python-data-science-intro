@@ -4,7 +4,8 @@ Welcome! This is a class being taught for [Girl Develop It RDU](https://www.girl
 
 The rough syllabus (subject to change) is:
 
-- Week 1: Overview of Python
+- Week 0: Python syntax - review this before the first class
+- Week 1: Intro to Jupyter and Python
 - Week 2: How computers store and process data, using NumPy to process data quickly
 - Week 3: Exploratory data analysis
 - Week 4: An intro to building models
