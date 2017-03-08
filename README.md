@@ -1,5 +1,13 @@
-# python-data-science-intro
-Course materials for Intro to Data Science with Python
+# Fundamentals of Data Science with Python
+
+Welcome! This is a class being taught for [Girl Develop It RDU](https://www.girldevelopit.com/chapters/raleigh-durham).
+
+The rough syllabus (subject to change) is:
+
+- Week 1: Overview of Python
+- Week 2: How computers store and process data, using NumPy to process data quickly
+- Week 3: Exploratory data analysis
+- Week 4: An intro to building models
 
 ## Getting started
 
@@ -24,7 +32,7 @@ When using git, it's often the case that you'll want to grab a version of some c
 If you're on Mac or Linux (or using the Windows command line interface), navigate to the local directory that you want the materials to live in. Then, type `git clone https://github.com/nickdavidhaynes/python-data-science-intro.git`. If you now type `ls` (or `dir` in Windows), you should see a directory called `python-data-science-intro`. This directory contains all of the course materials - congrats!
 
 #### GUI
-TODO
+If you're using the GitHub desktop GUI, follow [these](https://help.github.com/desktop/guides/contributing/cloning-a-repository-from-github-to-github-desktop/) instructions, using the URL `https://github.com/nickdavidhaynes/python-data-science-intro.git`.
 
 ### Step 3: Get Python 3
 This course will use Python 3. We'll touch on the differences between Python 2 and 3, but suffice to say for now that Python 2 should only be used for legacy reasons.
@@ -47,6 +55,12 @@ The good news is that if you installed Anaconda as recommended in step 2, you al
 ### Step 5: Take a look at the pre-work
 All of the notes and exercises for this class will be hosted in [Jupyter](http://jupyter.org/) notebooks. Jupyter notebooks are a crucial part of data science communication and collaboration. A notebook is a file that, when run, opens an internet browser tab. From this tab, you can enter and run lines of code (often Python, but R, Julia, and many other languages have support as well), but also intersperse text and images that tell a better story about what you're doing.
 
-I strongly encourage you to take a look at the pre-work notebook before coming to the first class. This notebook will give you an interactive environment to familiarize yourself with the basics of Python and should make the first day go a bit more smoothly.
+I encourage you to take a look at the week 0 notebook before coming to the first class, especially if you're new to Python. This notebook will give you an interactive environment to familiarize yourself with the basics of Python and should make the first day go a bit more smoothly.
 
-To run the notebook TODO
+#### Mac and Linux
+
+To run a Jupyter notebook, use the terminal to navigate to the directory where the notebook is stored and run `jupyter notebook`. A browser window with a menu of files - click on `python_essentials.ipynb`. A new tab should open with the notebook content.
+
+#### Windows
+
+You can run a Jupyter notebook either from the command prompt with `jupyter notebook` from the directory where the notebook is stored, or by using the Jupyter app that came with the Anaconda distribution. A browser window with a menu of files - click on `python_essentials.ipynb`. A new tab should open with the notebook content.
